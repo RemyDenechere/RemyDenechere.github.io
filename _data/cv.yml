@@ -3,38 +3,53 @@
   contents:
     - name: Full Name
       value: Remy Denechere
+    - name: Label
+      value: Theoretical marine ecologist
     - name: Date of Birth
       value: 18th May 1994
     - name: Languages
       value: French, English
+    - name: url
+      value: https://remydenechere.github.io
+    - name: location
+      - name: address
+        value: 2712 Broadway St
+      - name: postalCode
+        value: CA 94115
+      - name: city
+        value: San Diego
+      - name: CountryCode
+        value: US
+      - name: region
+        value: California
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: Technical Universtiy of Danmark, Lyngby, Denmark
+    - title: PhD. Metabolism, pace of life, and the dynamics of size-structured populations and communities. The case of fast-living squid
+      institution: Technical Universtiy of Danmark
+      location: Lyngby, Denmark
       year: 2019 - 2022 
       description:
-        - title: Metabolism, pace of life, and the dynamics of size-structured populations and communities. The case of fast-living squid
-          contents:
+      - contents:
             - Marine Ecology
             - Theoretical Ecology
             - Mathematical Modelling
             - link
     - title: Master 
-      institution: Sorbonne Université (UPMC), Paris, France
+      institution: Sorbonne Université (UPMC)
+      location: Paris, France
       year: 2017 - 2019
-      description:
-        - title: Ecology, Biodiversity and Evolution
-          content: 
+      description: Ecology, Biodiversity and Evolution
+      content: 
             - Specialisation in theoretical ecology and mathematical modelling.
             - Ecology, evolution, mathematical modelling, classic and Bayesian statistics, programming.
 
     - title: Bachelor 
-      institution: Université Pierre et Marie Curie (UPMC), Paris, France
+      institution: Université Pierre et Marie Curie (UPMC)
+      location: Paris, France
       year: 2014 - 2017
-      description:
-        - title: Double Bachelor Biologie and Mathematics
+      description: Double Bachelor Biologie and Mathematics
 
 - title: Experience
   type: time_table
