@@ -12,15 +12,15 @@
   type: time_table
   contents:
     - title: PhD
-      institution: Technical Universtiy of Danmark
-      year: 2022
+      institution: Technical Universtiy of Danmark, Lyngby, Denmark
+      year: 2019 - 2022 
       description:
-        - Description 1.
-        - Description 2.
         - title: Metabolism, pace of life, and the dynamics of size-structured populations and communities. The case of fast-living squid
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Marine Ecology
+            - Theoretical Ecology
+            - Mathematical Modelling
+            - link
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
