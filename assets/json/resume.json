@@ -2,11 +2,9 @@
   "basics": {
     "name": "Rémy Denéchère",
     "label": "Theoretical Marine Ecologist",
-    "image": "",
+    "image": "Remy_Denechere_profil_pic.jpg",
     "email": "rdenechere@ucsd.edu",
-    "phone": "",
     "url": "https://remydenechere.github.io",
-    "summary": "",
     "location": {
       "address": "9500 Gilman Drive # 0218",
       "postalCode": "CA 94115",
@@ -14,6 +12,7 @@
       "countryCode": "US",
       "region": "California"
     },
+    "phone": "",
     "profiles": [
       {
         "network": "Twitter",
