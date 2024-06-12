@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - remydenechere
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Deriving-pop-scaling-rules-from-individual-level-metabolism-and-life-history-trait
+  - The-role-of-squid-for-food-web-structure-and-community-level-metabolism
+  - RemyDenechere.github.io
+  - Programing-Tutorials
