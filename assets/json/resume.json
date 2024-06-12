@@ -62,35 +62,24 @@
       "publisher": "Ecological Modelling 493, 110729",
       "releaseDate": "2024",
       "url": "https://www.sciencedirect.com/science/article/pii/S0304380024001170",
-      "summary": ""
+      "summary": "Squid have a high growth rate, short life span, and distinctive feeding behavior, leading to a rapid transfer of energy to upper trophic levels and significant predation pressure. This study shows that squid grow five times faster than fish and are constrained to regions with high pelagic secondary production, causing a reduction in total consumer biomass due to increased community-level respiration losses. The findings suggest that the recent increase in squid populations could have significant ecological and socio-economic impacts on marine ecosystems."
     },
     {
       "name": "Deriving population scaling rules from individual-level metabolism and life history traits",
       "publisher": "The American Naturalist 199 (4), 564-575",
       "releaseDate": "2022",
       "url": "https://www.journals.uchicago.edu/doi/full/10.1086/718642",
-      "summary": ""
+      "summary": "Individual metabolism generally scales with body mass with an exponent around 3/4, leading to the assumption that maximum population growth rate (rmax) scales with a −1/4 exponent. This study calculates rmax while explicitly considering offspring size and identifies four general patterns of how rmax scales with adult mass based on life history traits. The findings suggest that while some species groups like elasmobranchs, copepods, and mammals follow the classic −1/4 scaling, others like teleost fish and bivalves do not, indicating deviations from the expected metabolic scaling pattern."
     },
     {
       "name": "The within-population variability of leaf spring and autumn phenology is influenced by temperature in temperate deciduous trees",
       "publisher": "International journal of biometeorology 65 (3), 369-379",
       "releaseDate": "2021",
       "url": "https://link.springer.com/article/10.1007/s00484-019-01762-6",
-      "summary": ""
+      "summary": "This study monitored leaf phenology in 14 tree populations across six European forests from 2011 to 2018, finding that variability in leaf senescence dates was twice as large as in budburst dates. Warmer temperatures and later budburst dates were linked to reduced variability in budburst, while later senescence and warm temperatures increased variability in senescence, although other factors also play a role."
     }
   ],
   "skills": [
-    {
-      "name": "Programation",
-      "level": "Master",
-      "icon": "fa-solid fa-computer-mouse",
-      "keywords": [
-        "Fortran",
-        "Matlab",
-        "Latex",
-        "R"
-      ]
-    }, 
     {
       "name": "Programation",
       "level": "Master",
@@ -128,7 +117,7 @@
     },
     {
       "name": "Mathematical modelling",
-      "icon": "fa-solid fa-code",
+      "icon": "fa-solid fa-calculator",
       "keywords": [
         "Fisheries Size and Functional Type Model (FEISTY)",
         "Carbon Ocean And Lower Trophics (COBALT)", 
