@@ -57,6 +57,27 @@
       "endDate": "2022-09-15",
       "score": "",
       "courses": ["Theory of Relativity"]
+    },
+    {
+      "institution": "Sorbonne Université (UPMC)",
+      "location": "Paris, France",
+      "url": "",
+      "area": "Theoretical Ecology and Mathematical Modeling",
+      "studyType": "Master",
+      "startDate": "2017-09-01",
+      "endDate": "2019-09-01",
+      "score": "",
+      "courses": ["Ecology", "evolution", "mathematical modeling", "classic and Bayesian statistics", "programming"]
+    },
+    {
+      "institution": "Sorbonne Université (UPMC)",
+      "location": "Paris, France",
+      "url": "",
+      "area": "Biology and Mathematics",
+      "studyType": "Double Bachelor",
+      "startDate": "2014-09-01",
+      "endDate": "2017-09-01",
+      "score": ""
     }
   ],
   "awards": [
