@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Rémy Denéchère",
+    "name":  "Rémy Denéchère",
     "label": "Theoretical Marine Ecologist",
     "image": "Remy_Denechere_profil_pic.jpg",
     "email": "rdenechere@ucsd.edu",
@@ -35,14 +35,15 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Les Restos du Coeur",
+      "location": "Paris, France",
+      "position": "Bénévole",
+      "url": "https://www.restosducoeur.org/",
+      "startDate": "2015",
+      "endDate": "2018",
+      "summary": "Weekly meal service and socialisation with people in need, and homelesses.",
+      "highlights": "", 
+      "icon" : "fa-solid fa-truck-utensils"
     }
   ],
   "education": [
@@ -50,12 +51,12 @@
       "institution": "Technical Universtiy of Danmark",
       "location": "Lyngby, Denmark",
       "url": "",
-      "area": "Marine Ecology",
+      "area": "Metabolism, pace of life, and the dynamics of size-structured populations and communities: The case of fast-living squid",
       "studyType": "PhD",
       "startDate": "2019-09-15",
       "endDate": "2022-09-15",
       "score": "",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Metabolic theory of Ecology", "FEISTY", "Marine Theoretical Ecology"]
     },
     {
       "institution": "Sorbonne Université (UPMC)",
@@ -79,15 +80,7 @@
       "score": ""
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
+  
   "certificates": [
     {
       "name": "Machine Learning",
@@ -218,4 +211,4 @@
       "url": "https://example.com"
     }
   ]
-}
+} 
