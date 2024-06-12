@@ -5,7 +5,7 @@
     "image": "",
     "email": "rdenechere@ucsd.edu",
     "phone": "",
-    "url": "https://remydenechere.github.io/al-folio/",
+    "url": "https://remydenechere.github.io",
     "summary": "",
     "location": {
       "address": "9500 Gilman Drive # 0218",
@@ -25,6 +25,7 @@
   "work": [
     {
       "name": "Scripps Institution of Oceanography",
+      "location": "La Jolla, USA",
       "position": "Postdoctoral Employe",
       "url": "https://scripps.ucsd.edu/profiles/rdenechere",
       "startDate": "2022-11-01",
@@ -47,14 +48,14 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Technical Universtiy of Danmark",
+      "location": "Lyngby, Denmark",
+      "url": "",
+      "area": "Marine Ecology",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
+      "startDate": "2019-09-15",
+      "endDate": "2022-09-15",
+      "score": "",
       "courses": ["Theory of Relativity"]
     }
   ],
