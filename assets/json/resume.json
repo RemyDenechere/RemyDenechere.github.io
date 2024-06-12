@@ -4,18 +4,11 @@
     "label": "Theoretical Marine Ecologist",
     "image": "Remy_Denechere_profil_pic.jpg",
     "email": "rdenechere@ucsd.edu",
-    "url": "https://remydenechere.github.io",
+    "url": "https://scripps.ucsd.edu/profiles/rdenechere",
     "address": "9500 Gilman Drive # 0218",
     "postalCode": "CA 94115, US",
     "city": "La Jolla",
-    "phone": "",
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "phone": ""
   },
   "work": [
     {
@@ -129,7 +122,17 @@
       "keywords": [
         "Metabolic Theory of Ecology",
         "Dynamic Energy Budget modeling",
-        "Mathematics"
+        "Fisheries induced evolution", 
+        "Gill limitation theory"
+      ]
+    },
+    {
+      "name": "Mathematical modelling",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Fisheries Size and Functional Type Model (FEISTY)",
+        "Carbon Ocean And Lower Trophics (COBALT)", 
+        "Applied Mathematics"
       ]
     }
   ],
