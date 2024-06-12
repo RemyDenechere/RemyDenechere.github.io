@@ -2,22 +2,22 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Rémy Denéchère
     - name: Date of Birth
-      value: 14th March 1879
+      value: 18th May 1994
     - name: Languages
-      value: English, German
+      value: French, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Technical Universtiy of Danmark
+      year: 2022
       description:
         - Description 1.
         - Description 2.
-        - title: Description 3.
+        - title: Metabolism, pace of life, and the dynamics of size-structured populations and communities. The case of fast-living squid
           contents:
             - Sub-description 1.
             - Sub-description 2.
