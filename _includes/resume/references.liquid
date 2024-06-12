@@ -6,7 +6,7 @@
           <tr>
             {% if content.icon %}
               <td class="list-group-category-icon">
-                <i class="{{ content.icon }}"></i>
+                <i class="{{ content.icon }}"></i> 
               </td>
             {% else %}
               <td class="list-group-category-icon"></td>
@@ -24,6 +24,17 @@
               <b>{{ content.reference }}</b>
             </td>
           </tr>
+          <td class="p-1 pl-2 font-weight-light text">
+            {% if content[0] == 'url' %}
+              <a href="{{ content[1] }}" target="_blank" rel="noopener noreferrer">{{ content[1] }}</a>
+            {% elsif content[0] == 'email' %}
+              <a href="mailto:{{ content[1] }}" target="_blank">{{ content[1] }}</a>
+            {% elsif content[0] == 'phone' %}
+              <a href="tel:{{ content[1] }}">{{ content[1] }}</a>
+            {% else %}
+              {{ content[1] }}
+            {% endif %}
+          </td>
         </tbody>
       </table>
     </div>
