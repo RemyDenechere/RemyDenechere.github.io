@@ -130,13 +130,13 @@
       "name": "Professor Ken Haste Andersen",
       "icon": "fa-solid fa-hard-hat",
       "email": "kha@dtu.edu.dk",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Technical University of Denmark (DTU)"
     },
     {
       "name": "Dr. P. Daniël van Denderen",
       "icon": "fa-solid fa-hat-hard",
       "email": "pdvd@dtu.edu.dk",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Technical University of Denmark (DTU)"
     }
   ],
   "volunteer": [
