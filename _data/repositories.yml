@@ -1,8 +1,8 @@
-github_users:
-  - remydenechere
-
 github_repos:
   - RemyDenechere/Deriving-pop-scaling-rules-from-individual-level-metabolism-and-life-history-trait
   - RemyDenechere/The-role-of-squid-for-food-web-structure-and-community-level-metabolism
   - RemyDenechere/RemyDenechere.github.io
   - RemyDenechere/Programing-Tutorials
+
+github_users:
+  - remydenechere
