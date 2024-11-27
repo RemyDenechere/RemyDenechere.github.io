@@ -14,7 +14,7 @@
     {
       "name": "Scripps Institution of Oceanography",
       "location": "La Jolla, USA",
-      "position": "Postdoctoral Employe",
+      "position": "Postdoctoral Employee",
       "url": "https://scripps.ucsd.edu/profiles/rdenechere",
       "startDate": "2022-11-01",
       "endDate": "2023-10-31",
@@ -144,7 +144,7 @@
       "reference": "University of California San Diego (UCSD)"
     }
   ],
-  "Students": [
+  "students": [
     {
       "name": "Elizaveta Churikov",
       "icon": "fa-solid fa-graduation-cap",
