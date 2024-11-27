@@ -79,19 +79,6 @@
       "summary": "This study monitored leaf phenology in 14 tree populations across six European forests from 2011 to 2018, finding that variability in leaf senescence dates was twice as large as in budburst dates. Warmer temperatures and later budburst dates were linked to reduced variability in budburst, while later senescence and warm temperatures increased variability in senescence, although other factors also play a role."
     }
   ],
-  "skills": [
-    {
-      "name": "Programation",
-      "level": "Master",
-      "icon": "fa-solid fa-computer-mouse",
-      "keywords": [
-        "Fortran",
-        "Matlab",
-        "Latex",
-        "R"
-      ]
-    }
-  ],
   "languages": [
     {
       "language": "French",
@@ -123,6 +110,18 @@
         "Carbon Ocean And Lower Trophics (COBALT)", 
         "Applied Mathematics"
       ]
+    },
+    {
+      "name": "Programation",
+      "level": "Master",
+      "icon": "fa-solid fa-computer-mouse",
+      "keywords": [
+        "Fortran", 
+        "Bash scripting",
+        "Matlab",
+        "Latex",
+        "R"
+      ]
     }
   ],
   "references": [
@@ -137,6 +136,20 @@
       "icon": "fa-solid fa-hat-hard",
       "email": "pdvd@dtu.edu.dk",
       "reference": "Technical University of Denmark (DTU)"
+    },
+    {
+      "name": "Dr. Colleen Petrik",
+      "icon": "fa-solid fa-hat-hard",
+      "email": "cpetrik@ucsd.edu",
+      "reference": "University of California San Diego (UCSD)"
+    }
+  ],
+  "Students": [
+    {
+      "name": "Elizaveta Churikov",
+      "icon": "fa-solid fa-graduation-cap",
+      "reference": "University of California San Diego (UCSD)", 
+      "position": "Undergraduate student"
     }
   ],
   "volunteer": [
