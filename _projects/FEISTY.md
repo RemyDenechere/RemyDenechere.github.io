@@ -9,7 +9,7 @@ related_publications: true
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/feisty_logo_orange_border.jpg" title="FEISTY Logo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/FEISTY_visuals/feisty_logo_orange_border.png" title="FEISTY Logo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 The FishErIes Size and functional TYpe model (FEISTY) is a mechanistic ecosystem modeling framework designed to explore the dynamics of marine fish communities under varying environmental conditions. It emphasizes simplicity and compatibility with global biogeochemical modeling principles. 
@@ -30,7 +30,7 @@ FEISTY provides a robust, flexible platform for addressing global questions in m
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/orange_day_night_combined_lowres.jpg" title="Description of the FEISTY framework" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/FEISTY_visuals/orange_day_night_combined_lowres.png" title="Description of the FEISTY framework" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
