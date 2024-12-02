@@ -10,19 +10,19 @@ related_publications: true
 last update: 11/27/2024
 
 <div class="row">
-    <div class="col-sm-9 mt-3 mt-md-0">
+    <div class="col-sm-11 mt-3 mt-md-0">
         <br />
         <br />
         The FishErIes Size and functional TYpe model (FEISTY) is a mechanistic ecosystem modeling framework designed to explore the dynamics of marine fish communities under varying environmental conditions. It emphasizes simplicity and compatibility with global biogeochemical modeling principles. 
-
-        # Overview
-        The FEISTY framework models and predicts fish community biomass based on functional groups (or types) instead of individual species, focusing on their ecological traits such as body size, trophic interactions, and habitat use. This approach allows 
     </div>
-    <div class="col-sm-3 mt-3 mt-md-0">
+    <div class="col-sm-1 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/FEISTY_visuals/feisty_logo_orange_border.png" title="FEISTY Logo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-the model to capture the essence of fish community dynamics in a computationally efficient manner, enabling its application on regional to global scales.
+
+# Overview
+
+The FEISTY framework models and predicts fish community biomass based on functional groups (or types) instead of individual species, focusing on their ecological traits such as body size, trophic interactions, and habitat use. This approach allows the model to capture the essence of fish community dynamics in a computationally efficient manner, enabling its application on regional to global scales.
 
 FEISTY uses an individual-based mechanistic, mass-conserving framework based on energy budgets, where energy intake supports growth, reproduction, and survival.
 The model connects higher trophic levels (fish) to planktonic food webs and benthic resources, integrating predator-prey interactions, competition, and energy transfer pathways.
