@@ -21,7 +21,7 @@ last update: 11/27/2024
 
 # Overview
 
-The FEISTY framework models and predicts fish community biomass based on functional groups (or types) instead of individual species, focusing on their ecological traits such as body size, trophic interactions, and habitat use. This approach allows the model to capture the essence of fish community dynamics in a computationally efficient manner, enabling its application on regional to global scales.
+The FEISTY framework models and predicts fish community biomass based on functional groups (or types) instead of individual species, focusing on their ecological traits such as body size, trophic interactions, and habitat use. This approach allows the model to capture the essence of fish community dynamics in a computationally efficient manner, enabling its application on regional to global scales {% cite zhao2024feisty %}.
 
 FEISTY uses an individual-based mechanistic, mass-conserving framework based on energy budgets, where energy intake supports growth, reproduction, and survival.
 The model connects higher trophic levels (fish) to planktonic food webs and benthic resources, integrating predator-prey interactions, competition, and energy transfer pathways.
